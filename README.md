@@ -1,4 +1,4 @@
-# Twitter-Data-Sentiment-Analysis
+# Twitter Data Sentiment Analysis
 
 This repository was stored some code in ipynb files. The ipynb contain a code for classifying sentiment analysis for twiiter data.</br>
 The **Feature extraction** that are used in ipynb: <br>
